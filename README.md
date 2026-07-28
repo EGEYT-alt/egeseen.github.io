@@ -31,4 +31,4 @@ Ekstra bir kuruluma gerek yok. `index.html` dosyasını tarayıcıda çift tıkl
 
 ## Lisans
 
-Kişisel kullanım içindir.
+Kişisel kullanım içindir.Credit verilerek kullanılabilir.
