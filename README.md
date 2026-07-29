@@ -5,7 +5,7 @@ Gömülü sistemler, yapay zeka ve robotik ile ilgilenen bir lise öğrencisinin
 ## Canlı Site
 
 Yayına alındıktan sonra buraya link eklenecek:
-`https://<kullanici-adi>.github.io/<repo-adi>/`
+`https://egeyt-alt.github.io/egeseen.github.io/#`
 
 ## Kullanılan Teknolojiler
 
